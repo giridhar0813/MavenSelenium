@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26701" started-at="2017-09-11T14:49:46Z" finished-at="2017-09-11T14:50:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26701" started-at="2017-09-11T14:49:46Z" finished-at="2017-09-11T14:50:13Z">
+      <class name="com.framework.BaseTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.framework.BaseTest@1aeed2f]" name="openBrowser" duration-ms="26545" started-at="2017-09-11T20:19:46Z" finished-at="2017-09-11T20:20:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- com.framework.BaseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
